@@ -1,4 +1,3 @@
-### Hi there 👋
 Hi. I’m Miguel. I build lots of demos and "hello world" sample projects on this account.
 
 I work at Edge as a Software Engineer. For more information about me, check out [my linkedin!](https://www.linkedin.com/in/miguelptome).
