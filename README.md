@@ -1,6 +1,6 @@
-Hi. I’m Miguel. I build lots of demos and "hello world" sample projects on this account.
+Hi. I’m Miguel. I have some demos and "hello world" sample projects shared to you here.
 
-I work at Edge as a Software Engineer. For more information about me, check out [my linkedin!](https://www.linkedin.com/in/miguelptome).
+I'm a Software Engineer currently working at Edge consulting company. For more information about me, check out [my linkedin!](https://www.linkedin.com/in/miguelptome).
 
 <!--
 **miguelptome/miguelptome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
