@@ -1,4 +1,4 @@
-<img align="center" alt="benccalcyxzfi-msqlserver"  src="https://komarev.com/ghpvc/?username=benccalcyxzfi&style=flat-square">
+<img align="center" alt="miguelptome-msqlserver"  src="https://komarev.com/ghpvc/?username=miguelptome&style=flat-square">
 
 Hi. I’m Miguel. 
 
