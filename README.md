@@ -15,4 +15,4 @@
 </div>
 
 <h2>🏆 GitHub Trophies</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=barbisliboni&theme=nord&column=7" >
+<img src="https://github-profile-trophy.vercel.app/?username=miguelptome&theme=nord&column=7" >
