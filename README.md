@@ -13,3 +13,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelptome&theme=dark">
 </div>
+
+<h2>🏆 GitHub Trophies</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=barbisliboni&theme=nord&column=7" >
