@@ -1,3 +1,5 @@
+<img align="center" alt="benccalcyxzfi-msqlserver"  src="https://komarev.com/ghpvc/?username=benccalcyxzfi&style=flat-square">
+
 Hi. I’m Miguel. 
 
 I have some demos and "hello world" sample projects shared to you here.
